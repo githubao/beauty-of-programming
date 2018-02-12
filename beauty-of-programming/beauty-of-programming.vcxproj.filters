@@ -29,5 +29,8 @@
     <ClCompile Include="beauty-of-programming.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\tmp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
